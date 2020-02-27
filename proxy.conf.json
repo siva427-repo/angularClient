@@ -1,0 +1,8 @@
+{
+  "/dev/*": {
+    "target": "https://n19w7ji62h.execute-api.us-east-2.amazonaws.com",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
